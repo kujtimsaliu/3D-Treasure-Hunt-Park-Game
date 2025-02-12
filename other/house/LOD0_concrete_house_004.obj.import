@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b2slbf0pbn1r7"
+path="res://.godot/imported/LOD0_concrete_house_004.obj-1b1b1af1253c8d2757487f92f1975d8a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/LOD0_concrete_house_004.obj-1b1b1af1253c8d2757487f92f1975d8a.mesh"]
+
+source_file="res://other/house/LOD0_concrete_house_004.obj"
+dest_files=["res://.godot/imported/LOD0_concrete_house_004.obj-1b1b1af1253c8d2757487f92f1975d8a.mesh", "res://.godot/imported/LOD0_concrete_house_004.obj-1b1b1af1253c8d2757487f92f1975d8a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

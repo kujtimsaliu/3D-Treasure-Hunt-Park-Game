@@ -1,0 +1,16 @@
+# Blender MTL File: 'YAVplayground_merged.blend'
+# Material Count: 1
+
+newmtl yavoriv_playground
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.718824 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.150000 D:\\Orchitect\\University\\4 курс\\2 семестр\\Dyplom_AP\\Playground\\yp_Normal_DirectX.png
+map_Kd D:\\Orchitect\\University\\4 курс\\2 семестр\\Dyplom_AP\\Playground\\yp_Base_color.png
+map_Ns D:\\Orchitect\\University\\4 курс\\2 семестр\\Dyplom_AP\\Playground\\yp_Roughness.png
+refl D:\\Orchitect\\University\\4 курс\\2 семестр\\Dyplom_AP\\Playground\\yp_Metallic.png

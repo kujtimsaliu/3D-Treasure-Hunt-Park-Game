@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cj66171exju7n"
+path="res://.godot/imported/Plant pot cucumber tree.obj-23a75cb5ea2870c96f50ead8d0189aab.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Plant pot cucumber tree.obj-23a75cb5ea2870c96f50ead8d0189aab.mesh"]
+
+source_file="res://other/Plant pot cucumber tree/Plant pot cucumber tree.obj"
+dest_files=["res://.godot/imported/Plant pot cucumber tree.obj-23a75cb5ea2870c96f50ead8d0189aab.mesh", "res://.godot/imported/Plant pot cucumber tree.obj-23a75cb5ea2870c96f50ead8d0189aab.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

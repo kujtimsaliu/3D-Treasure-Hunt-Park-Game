@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c30uycdjmjuxi"
+path="res://.godot/imported/Flower_4_Single.obj-9f8bbce53c128a2e5fdd43330fd121cf.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Flower_4_Single.obj-9f8bbce53c128a2e5fdd43330fd121cf.mesh"]
+
+source_file="res://utils/WaterMaker3D/Flower_4_Single.obj"
+dest_files=["res://.godot/imported/Flower_4_Single.obj-9f8bbce53c128a2e5fdd43330fd121cf.mesh", "res://.godot/imported/Flower_4_Single.obj-9f8bbce53c128a2e5fdd43330fd121cf.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

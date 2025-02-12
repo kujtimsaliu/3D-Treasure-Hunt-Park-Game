@@ -1,0 +1,30 @@
+[gd_scene load_steps=6 format=3 uid="uid://bqhielvmrvfhc"]
+
+[ext_resource type="Script" path="res://coin.gd" id="1_dqw3l"]
+[ext_resource type="Texture2D" uid="uid://c2e48j7045dsl" path="res://other/gold-coin/GoldCoinBlankAlbedo.png" id="2_qy1pv"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_en25b"]
+albedo_texture = ExtResource("2_qy1pv")
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_5bky0"]
+top_radius = 0.3
+bottom_radius = 0.3
+height = 0.05
+
+[sub_resource type="CylinderShape3D" id="CylinderShape3D_jkiby"]
+height = 0.15
+radius = 0.3
+
+[node name="Coin" type="Area3D"]
+script = ExtResource("1_dqw3l")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, -4.37114e-08, 1, 0, -1, -4.37114e-08, 0, 0, 0)
+material_override = SubResource("StandardMaterial3D_en25b")
+mesh = SubResource("CylinderMesh_5bky0")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, -4.37114e-08, 1, 0, -1, -4.37114e-08, 0, 0, 0)
+shape = SubResource("CylinderShape3D_jkiby")
+
+[connection signal="body_entered" from="." to="." method="_on_body_entered"]

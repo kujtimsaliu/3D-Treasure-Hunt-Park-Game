@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dyii1wx6nnnnf"
+path="res://.godot/imported/uploads_files_4352024_yavorivplayground.obj-0c2884767fa4e2b814a52c824a898f2e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/uploads_files_4352024_yavorivplayground.obj-0c2884767fa4e2b814a52c824a898f2e.mesh"]
+
+source_file="res://other/woodenkidsplayground/uploads_files_4352024_yavorivplayground.obj"
+dest_files=["res://.godot/imported/uploads_files_4352024_yavorivplayground.obj-0c2884767fa4e2b814a52c824a898f2e.mesh", "res://.godot/imported/uploads_files_4352024_yavorivplayground.obj-0c2884767fa4e2b814a52c824a898f2e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

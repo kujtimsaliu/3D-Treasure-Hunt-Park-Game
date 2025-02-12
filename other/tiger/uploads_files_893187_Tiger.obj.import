@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b48w86aag3wdt"
+path="res://.godot/imported/uploads_files_893187_Tiger.obj-00fa5933db96438f95c05482d9fec5f4.mesh"
+
+[deps]
+
+files=["res://.godot/imported/uploads_files_893187_Tiger.obj-00fa5933db96438f95c05482d9fec5f4.mesh"]
+
+source_file="res://other/tiger/uploads_files_893187_Tiger.obj"
+dest_files=["res://.godot/imported/uploads_files_893187_Tiger.obj-00fa5933db96438f95c05482d9fec5f4.mesh", "res://.godot/imported/uploads_files_893187_Tiger.obj-00fa5933db96438f95c05482d9fec5f4.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b7swhb6swbugg"
+path="res://.godot/imported/hoewa_Forsteriana_2.obj-81177e1e318d0051ce4b2da2aad98785.mesh"
+
+[deps]
+
+files=["res://.godot/imported/hoewa_Forsteriana_2.obj-81177e1e318d0051ce4b2da2aad98785.mesh"]
+
+source_file="res://other/Hoewa_Forsteriana_OBJ/hoewa_Forsteriana_2.obj"
+dest_files=["res://.godot/imported/hoewa_Forsteriana_2.obj-81177e1e318d0051ce4b2da2aad98785.mesh", "res://.godot/imported/hoewa_Forsteriana_2.obj-81177e1e318d0051ce4b2da2aad98785.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d3r3njbfgb4od"
+path="res://.godot/imported/street_lantern.obj-7da785da135f1063e4456b346214be5f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/street_lantern.obj-7da785da135f1063e4456b346214be5f.mesh"]
+
+source_file="res://tiny_treats_pretty_park_set/Assets/obj/street_lantern.obj"
+dest_files=["res://.godot/imported/street_lantern.obj-7da785da135f1063e4456b346214be5f.mesh", "res://.godot/imported/street_lantern.obj-7da785da135f1063e4456b346214be5f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dxfllgy8dylfm"
+path="res://.godot/imported/uploads_files_4352024_yavorivplayground.obj-9c1508b48abd2ca05f23677955782931.mesh"
+
+[deps]
+
+files=["res://.godot/imported/uploads_files_4352024_yavorivplayground.obj-9c1508b48abd2ca05f23677955782931.mesh"]
+
+source_file="res://other/quaternius-simple-nature-pack-ef20f92a4739d6fccdd6a9987dcc6e2ee991429a/uploads_files_4352024_yavorivplayground.obj"
+dest_files=["res://.godot/imported/uploads_files_4352024_yavorivplayground.obj-9c1508b48abd2ca05f23677955782931.mesh", "res://.godot/imported/uploads_files_4352024_yavorivplayground.obj-9c1508b48abd2ca05f23677955782931.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

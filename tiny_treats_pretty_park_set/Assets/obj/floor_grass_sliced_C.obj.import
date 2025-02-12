@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cyddaec75660n"
+path="res://.godot/imported/floor_grass_sliced_C.obj-6c8a9d17ad606f632583c55be8d20016.mesh"
+
+[deps]
+
+files=["res://.godot/imported/floor_grass_sliced_C.obj-6c8a9d17ad606f632583c55be8d20016.mesh"]
+
+source_file="res://tiny_treats_pretty_park_set/Assets/obj/floor_grass_sliced_C.obj"
+dest_files=["res://.godot/imported/floor_grass_sliced_C.obj-6c8a9d17ad606f632583c55be8d20016.mesh", "res://.godot/imported/floor_grass_sliced_C.obj-6c8a9d17ad606f632583c55be8d20016.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
