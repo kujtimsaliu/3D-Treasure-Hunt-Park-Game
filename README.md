@@ -3,7 +3,7 @@
 
 ### Project Links
 - **GitHub Repository**: [GitHub repository](https://github.com/kujtimsaliu/3D-Treasure-Hunt-Park-Game)
-- **Gameplay Demo**: [YouTube video URL](https://youtu.be/J0u-Tbjg2cg?si=FhwWCn-lpnOhU0Gb)
+- **Gameplay Demo**: [YouTube video](https://youtu.be/J0u-Tbjg2cg?si=FhwWCn-lpnOhU0Gb)
 
 ### Game Overview
 A 3D treasure hunt game where players explore a park environment collecting coins within a time limit. The game features a dynamic coin collection system, time management, and victory/defeat conditions.
