@@ -230,8 +230,8 @@ The game environment consists of:
 
 ### Support
 For technical support or questions:
-- Email: [kujtimsaliu011@gmail.com]
-- GitHub Issues: [Repository Issues]https://github.com/kujtimsaliu/3D-Treasure-Hunt-Park-Game/issues
+- Email: kujtimsaliu011@gmail.com
+- GitHub Issues: [Repository Issues](https://github.com/kujtimsaliu/3D-Treasure-Hunt-Park-Game/issues)
 
 ---
 © 2025 [Kujtim Saliu]. All rights reserved.
