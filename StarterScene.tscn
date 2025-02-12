@@ -61,7 +61,7 @@
 [ext_resource type="ArrayMesh" uid="uid://b48w86aag3wdt" path="res://other/tiger/uploads_files_893187_Tiger.obj" id="51_sptug"]
 [ext_resource type="Texture2D" uid="uid://cb3pap2rpwdk6" path="res://other/Bush fencing N211122/leaf.jpg" id="52_fo224"]
 [ext_resource type="ArrayMesh" uid="uid://ci35d0pmu2sy1" path="res://other/Bush fencing N211122/Bush fencing N211122.obj" id="53_0gjan"]
-[ext_resource type="Texture2D" uid="uid://dknd5q2sx82gv" path="res://other/Plant pot cucumber tree/Texture/cucumber.jpg" id="62_x2oc6"]
+[ext_resource type="Texture2D" uid="uid://dha1r6b3pmpsr" path="res://other/Plant pot cucumber tree/Texture/cucumber.jpg" id="62_x2oc6"]
 [ext_resource type="ArrayMesh" uid="uid://cj66171exju7n" path="res://other/Plant pot cucumber tree/Plant pot cucumber tree.obj" id="63_1604i"]
 [ext_resource type="Texture2D" uid="uid://cjmkwn22dlmyj" path="res://other/1new stuff/Leaf_Pine_C.png" id="64_lgpue"]
 [ext_resource type="ArrayMesh" uid="uid://oudi8ycxjocr" path="res://other/1new stuff/Pine_4.obj" id="65_elioe"]
