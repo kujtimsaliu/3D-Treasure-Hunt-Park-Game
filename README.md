@@ -1,8 +1,10 @@
 # 3D Treasure Hunt Park Game
-## Technical Documentation
 
 if you dont mind waiting a bit to load:
 https://kujtimsaliu.itch.io/3d-treasure-hunt-park-game
+
+
+## Technical Documentation
 
 ### Project Links
 - **GitHub Repository**: [GitHub repository](https://github.com/kujtimsaliu/3D-Treasure-Hunt-Park-Game)
