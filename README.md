@@ -1,6 +1,6 @@
 # 3D Treasure Hunt Park Game
 
-if you dont mind waiting a bit to load:
+Give it a try, if you dont mind waiting a bit to load:
 https://kujtimsaliu.itch.io/3d-treasure-hunt-park-game
 
 
